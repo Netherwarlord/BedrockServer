@@ -1,0 +1,595 @@
+2020-04-26 [10:49:19] [Server thread/INFO]: Loading pocketmine.yml...
+2020-04-26 [10:49:20] [Server thread/INFO]: Loading server properties...
+2020-04-26 [10:49:20] [Server thread/INFO]: Selected English (eng) as the base language
+2020-04-26 [10:49:20] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-04-26 [10:49:20] [Server thread/INFO]: Starting remote control listener
+2020-04-26 [10:49:20] [Server thread/INFO]: RCON running on 0.0.0.0:25565
+2020-04-26 [10:49:20] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-04-26 [10:49:20] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-04-26 [10:49:20] [Server thread/INFO]: Opening server on 0.0.0.0:25565
+2020-04-26 [10:49:20] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.0
+2020-04-26 [10:49:20] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-04-26 [10:49:20] [Server thread/INFO]: Loading resource packs...
+2020-04-26 [10:49:20] [Server thread/NOTICE]: World "world" not found
+2020-04-26 [10:49:20] [Server thread/INFO]: Preparing world "world"
+2020-04-26 [10:49:20] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2020-04-26 [10:49:20] [Server thread/INFO]: Starting GS4 status listener
+2020-04-26 [10:49:20] [Server thread/INFO]: Setting query port to 25565
+2020-04-26 [10:49:20] [Server thread/INFO]: Query running on 0.0.0.0:25565
+2020-04-26 [10:49:20] [Server thread/INFO]: Default game type: Survival Mode
+2020-04-26 [10:49:20] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-04-26 [10:49:20] [Server thread/INFO]: Done (0.28s)! For help, type "help" or "?"
+2020-06-04 [01:13:35] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [01:13:35] [Server thread/INFO]: Loading server properties...
+2020-06-04 [01:13:36] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [01:13:36] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [01:13:36] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [01:13:36] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-04 [01:13:36] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [01:13:36] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [01:13:36] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-04 [01:13:36] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.0
+2020-06-04 [01:13:36] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [01:13:36] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [01:13:36] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [01:13:36] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [01:13:36] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [01:13:36] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-06-04 [01:13:36] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [01:13:36] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [01:13:36] [Server thread/INFO]: Done (0.757s)! For help, type "help" or "?"
+2020-06-04 [01:13:37] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2020-06-04 [01:13:37] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.12.5 was released on Wed Jun 3 06:01:34 2020
+2020-06-04 [01:13:37] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1805/
+2020-06-04 [01:13:37] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1805//artifact/PocketMine-MP.phar
+2020-06-04 [01:13:37] [Server thread/WARNING]: ----- -------------------------- -----
+2020-06-04 [01:13:48] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2020-06-04 [01:13:48] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2020-06-04 [01:13:48] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2020-06-04 [01:13:48] [Server thread/INFO]: /banlist: View all players banned from this server
+2020-06-04 [01:13:48] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2020-06-04 [01:13:48] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2020-06-04 [01:13:48] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2020-06-04 [01:13:48] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2020-06-04 [01:13:48] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2020-06-04 [01:13:48] [Server thread/INFO]: /enchant: Adds enchantments on items
+2020-06-04 [01:13:48] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2020-06-04 [01:13:48] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2020-06-04 [01:13:48] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2020-06-04 [01:13:48] [Server thread/INFO]: /help: Shows the help menu
+2020-06-04 [01:13:48] [Server thread/INFO]: /kick: Removes the specified player from the server
+2020-06-04 [01:13:48] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2020-06-04 [01:13:48] [Server thread/INFO]: /list: Lists all online players
+2020-06-04 [01:13:48] [Server thread/INFO]: /me: Performs the specified action in chat
+2020-06-04 [01:13:48] [Server thread/INFO]: /op: Gives the specified player operator status
+2020-06-04 [01:13:48] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2020-06-04 [01:13:48] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2020-06-04 [01:13:48] [Server thread/INFO]: /particle: Adds particles to a world
+2020-06-04 [01:13:48] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2020-06-04 [01:13:48] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2020-06-04 [01:13:48] [Server thread/INFO]: /save-all: Saves the server to disk
+2020-06-04 [01:13:48] [Server thread/INFO]: /save-off: Disables server autosaving
+2020-06-04 [01:13:48] [Server thread/INFO]: /save-on: Enables server autosaving
+2020-06-04 [01:13:48] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2020-06-04 [01:13:48] [Server thread/INFO]: /seed: Shows the world seed
+2020-06-04 [01:13:48] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2020-06-04 [01:13:48] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2020-06-04 [01:13:48] [Server thread/INFO]: /status: Reads back the server's performance.
+2020-06-04 [01:13:48] [Server thread/INFO]: /stop: Stops the server
+2020-06-04 [01:13:48] [Server thread/INFO]: /tell: Sends a private message to the given player
+2020-06-04 [01:13:48] [Server thread/INFO]: /time: Changes the time on each world
+2020-06-04 [01:13:48] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2020-06-04 [01:13:48] [Server thread/INFO]: /title: Controls screen titles
+2020-06-04 [01:13:48] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2020-06-04 [01:13:48] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2020-06-04 [01:13:48] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2020-06-04 [01:13:48] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2020-06-04 [01:13:53] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-06-04 [01:13:53] [Server thread/INFO]: Unloading world "world"
+2020-06-04 [01:13:53] [Server thread/INFO]: Stopping other threads
+2020-06-04 [01:15:02] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [01:15:02] [Server thread/INFO]: Loading server properties...
+2020-06-04 [01:15:02] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [01:15:02] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [01:15:02] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [01:15:02] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-04 [01:15:02] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [01:15:02] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [01:15:02] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-04 [01:15:02] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.0
+2020-06-04 [01:15:02] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [01:15:02] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [01:15:02] [Server thread/ERROR]: Could not load plugin 'EconomyPShop': Incompatible network protocol version (plugin requires one of: 361)
+2020-06-04 [01:15:02] [Server thread/ERROR]: Could not load plugin 'EconomySell': Incompatible network protocol version (plugin requires one of: 361)
+2020-06-04 [01:15:02] [Server thread/ERROR]: Could not load plugin 'EconomyShop': Incompatible network protocol version (plugin requires one of: 361)
+2020-06-04 [01:15:02] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [01:15:02] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [01:15:02] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [01:15:02] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [01:15:03] [Server thread/NOTICE]: [EconomyAPI] EconomyShop and EconomyLand is planned to be rewritten. Feel free to send any feedback for the plugin to <me@onebone.me>
+2020-06-04 [01:15:03] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [01:15:03] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [01:15:03] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [01:15:03] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [01:15:03] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-06-04 [01:15:03] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [01:15:03] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [01:15:03] [Server thread/INFO]: Done (1.708s)! For help, type "help" or "?"
+2020-06-04 [01:15:03] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2020-06-04 [01:15:03] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.12.5 was released on Wed Jun 3 06:01:34 2020
+2020-06-04 [01:15:03] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1805/
+2020-06-04 [01:15:03] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1805//artifact/PocketMine-MP.phar
+2020-06-04 [01:15:03] [Server thread/WARNING]: ----- -------------------------- -----
+2020-06-04 [01:15:23] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-06-04 [01:15:23] [Server thread/INFO]: Disabling EconomyAPI v5.7.2
+2020-06-04 [01:15:23] [Server thread/INFO]: Disabling EconomyLand v2.1.2
+2020-06-04 [01:15:23] [Server thread/INFO]: Unloading world "world"
+2020-06-04 [01:15:23] [Server thread/INFO]: Stopping other threads
+2020-06-04 [01:15:48] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [01:15:48] [Server thread/INFO]: Loading server properties...
+2020-06-04 [01:15:48] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [01:15:48] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [01:15:48] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [01:15:48] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-04 [01:15:48] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [01:15:48] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [01:15:48] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-04 [01:15:48] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.0
+2020-06-04 [01:15:48] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [01:15:48] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [01:15:48] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [01:15:48] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [01:15:48] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [01:15:48] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [01:15:48] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [01:15:48] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [01:15:48] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [01:15:49] [Server thread/NOTICE]: [EconomyAPI] EconomyShop and EconomyLand is planned to be rewritten. Feel free to send any feedback for the plugin to <me@onebone.me>
+2020-06-04 [01:15:49] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [01:15:49] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [01:15:49] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [01:15:49] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [01:15:49] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [01:15:49] [Server thread/CRITICAL]: [EconomyPShop] [DEPENDENCY] Please install ItemCloud plugin to use PShop plugin.
+2020-06-04 [01:15:49] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [01:15:49] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [01:15:49] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [01:15:49] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [01:15:49] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-06-04 [01:15:49] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [01:15:49] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [01:15:49] [Server thread/INFO]: Done (1.075s)! For help, type "help" or "?"
+2020-06-04 [01:15:49] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2020-06-04 [01:15:49] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.12.5 was released on Wed Jun 3 06:01:34 2020
+2020-06-04 [01:15:49] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1805/
+2020-06-04 [01:15:49] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1805//artifact/PocketMine-MP.phar
+2020-06-04 [01:15:49] [Server thread/WARNING]: ----- -------------------------- -----
+2020-06-04 [01:17:39] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [01:17:39] [Server thread/INFO]: Loading server properties...
+2020-06-04 [01:17:39] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [01:17:39] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [01:17:39] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [01:17:39] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-04 [01:17:39] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [01:17:39] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [01:17:39] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-04 [01:17:39] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.0
+2020-06-04 [01:17:39] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [01:17:40] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [01:17:40] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [01:17:40] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [01:17:40] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [01:17:40] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [01:17:40] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [01:17:40] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [01:17:40] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [01:17:40] [Server thread/CRITICAL]: [EconomyPShop] [DEPENDENCY] Please install ItemCloud plugin to use PShop plugin.
+2020-06-04 [01:17:40] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [01:17:40] [Server thread/NOTICE]: [EconomyAPI] Something did not went wrong on update server.
+2020-06-04 [01:17:40] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [01:17:40] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [01:17:40] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [01:17:40] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [01:17:40] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [01:17:40] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [01:17:40] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [01:17:40] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [01:17:40] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-06-04 [01:17:40] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [01:17:40] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [01:17:40] [Server thread/INFO]: Done (1.07s)! For help, type "help" or "?"
+2020-06-04 [01:17:40] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2020-06-04 [01:17:40] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.12.5 was released on Wed Jun 3 06:01:34 2020
+2020-06-04 [01:17:40] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1805/
+2020-06-04 [01:17:40] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1805//artifact/PocketMine-MP.phar
+2020-06-04 [01:17:40] [Server thread/WARNING]: ----- -------------------------- -----
+2020-06-04 [01:20:21] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [01:20:21] [Server thread/INFO]: Loading server properties...
+2020-06-04 [01:20:21] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [01:20:21] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [01:20:21] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [01:20:21] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-04 [01:20:21] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [01:20:21] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [01:20:21] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-04 [01:20:22] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.0
+2020-06-04 [01:20:22] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading ItemCloud v1.3.1
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading FactionsPro v1.3.20
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading ChestShop v2.2.6
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [01:20:22] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [01:20:22] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [01:20:22] [Server thread/INFO]: Enabling ItemCloud v1.3.1
+2020-06-04 [01:20:22] [Server thread/INFO]: Enabling FactionsPro v1.3.20
+2020-06-04 [01:20:22] [Server thread/INFO]: [FactionsPro] Add AntiSpamPro to ban rude Faction names
+2020-06-04 [01:20:23] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [01:20:23] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [01:20:24] [Server thread/NOTICE]: [EconomyAPI] The update server is now online!
+2020-06-04 [01:20:24] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [01:20:24] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [01:20:24] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [01:20:24] [Server thread/INFO]: Enabling ChestShop v2.2.6
+2020-06-04 [01:20:24] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [01:20:24] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [01:20:24] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [01:20:24] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [01:20:24] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [01:20:24] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-06-04 [01:20:24] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [01:20:24] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [01:20:24] [Server thread/INFO]: Done (2.92s)! For help, type "help" or "?"
+2020-06-04 [01:20:24] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2020-06-04 [01:20:24] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.12.5 was released on Wed Jun 3 06:01:34 2020
+2020-06-04 [01:20:24] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1805/
+2020-06-04 [01:20:24] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1805//artifact/PocketMine-MP.phar
+2020-06-04 [01:20:24] [Server thread/WARNING]: ----- -------------------------- -----
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading server properties...
+2020-06-04 [01:22:34] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [01:22:34] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [01:22:34] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [01:22:34] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-04 [01:22:34] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [01:22:34] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [01:22:34] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-04 [01:22:34] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.5
+2020-06-04 [01:22:34] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading FactionsPro v1.3.20
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading ChestShop v2.2.6
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading ItemCloud v1.3.1
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [01:22:34] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [01:22:34] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [01:22:34] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [01:22:35] [Server thread/NOTICE]: [EconomyAPI] COVID19: Keep your personal hygiene by washing your hands and wearing a mask.
+2020-06-04 [01:22:35] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [01:22:35] [Server thread/INFO]: Enabling FactionsPro v1.3.20
+2020-06-04 [01:22:35] [Server thread/INFO]: [FactionsPro] Add AntiSpamPro to ban rude Faction names
+2020-06-04 [01:22:35] [Server thread/INFO]: Enabling ChestShop v2.2.6
+2020-06-04 [01:22:35] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [01:22:35] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [01:22:35] [Server thread/INFO]: Enabling ItemCloud v1.3.1
+2020-06-04 [01:22:35] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [01:22:35] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [01:22:35] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [01:22:35] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [01:22:35] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [01:22:35] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [01:22:35] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-06-04 [01:22:35] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [01:22:35] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [01:22:35] [Server thread/INFO]: Done (1.074s)! For help, type "help" or "?"
+2020-06-04 [01:23:19] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-06-04 [01:23:19] [Server thread/INFO]: Disabling EconomyAPI v5.7.2
+2020-06-04 [01:23:19] [Server thread/INFO]: Disabling FactionsPro v1.3.20
+2020-06-04 [01:23:19] [Server thread/INFO]: Disabling ChestShop v2.2.6
+2020-06-04 [01:23:19] [Server thread/INFO]: Disabling EconomyPShop v2.0.3
+2020-06-04 [01:23:19] [Server thread/INFO]: Disabling EconomyLand v2.1.2
+2020-06-04 [01:23:19] [Server thread/INFO]: Disabling ItemCloud v1.3.1
+2020-06-04 [01:23:19] [Server thread/INFO]: Disabling EconomySell v2.0.10
+2020-06-04 [01:23:19] [Server thread/INFO]: Disabling EconomyShop v2.0.10
+2020-06-04 [01:23:19] [Server thread/INFO]: Unloading world "world"
+2020-06-04 [01:23:19] [Server thread/INFO]: Stopping other threads
+2020-06-04 [01:25:13] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [01:25:13] [Server thread/INFO]: Loading server properties...
+2020-06-04 [01:25:13] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [01:25:13] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [01:25:13] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [01:25:13] [Server thread/INFO]: RCON running on 192.168.1.104:19132
+2020-06-04 [01:25:13] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [01:25:13] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [01:25:13] [Server thread/INFO]: Opening server on 192.168.1.104:19132
+2020-06-04 [01:25:13] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.5
+2020-06-04 [01:25:13] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading ItemCloud v1.3.1
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading FactionsPro v1.3.20
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading ChestShop v2.2.6
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [01:25:14] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [01:25:14] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [01:25:14] [Server thread/INFO]: Enabling ItemCloud v1.3.1
+2020-06-04 [01:25:14] [Server thread/INFO]: Enabling FactionsPro v1.3.20
+2020-06-04 [01:25:14] [Server thread/INFO]: [FactionsPro] Add AntiSpamPro to ban rude Faction names
+2020-06-04 [01:25:14] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [01:25:14] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [01:25:18] [Server thread/NOTICE]: [EconomyAPI] EconomyShop and EconomyLand is planned to be rewritten. Feel free to send any feedback for the plugin to <me@onebone.me>
+2020-06-04 [01:25:18] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [01:25:18] [Server thread/INFO]: Enabling ChestShop v2.2.6
+2020-06-04 [01:25:18] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [01:25:18] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [01:25:18] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [01:25:18] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [01:25:18] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [01:25:19] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [01:25:19] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [01:25:19] [Server thread/INFO]: Query running on 192.168.1.104:19132
+2020-06-04 [01:25:19] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [01:25:19] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [01:25:19] [Server thread/INFO]: Done (5.324s)! For help, type "help" or "?"
+2020-06-04 [02:16:01] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-06-04 [02:16:01] [Server thread/INFO]: Disabling ItemCloud v1.3.1
+2020-06-04 [02:16:01] [Server thread/INFO]: Disabling FactionsPro v1.3.20
+2020-06-04 [02:16:01] [Server thread/INFO]: Disabling EconomyPShop v2.0.3
+2020-06-04 [02:16:01] [Server thread/INFO]: Disabling EconomyAPI v5.7.2
+2020-06-04 [02:16:01] [Server thread/INFO]: Disabling ChestShop v2.2.6
+2020-06-04 [02:16:01] [Server thread/INFO]: Disabling EconomyShop v2.0.10
+2020-06-04 [02:16:01] [Server thread/INFO]: Disabling EconomySell v2.0.10
+2020-06-04 [02:16:01] [Server thread/INFO]: Disabling EconomyLand v2.1.2
+2020-06-04 [02:16:01] [Server thread/INFO]: Unloading world "world"
+2020-06-04 [02:16:01] [Server thread/INFO]: Stopping other threads
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading server properties...
+2020-06-04 [02:19:33] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [02:19:33] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [02:19:33] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [02:19:33] [Server thread/INFO]: RCON running on 192.168.1.104:19132
+2020-06-04 [02:19:33] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [02:19:33] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [02:19:33] [Server thread/INFO]: Opening server on 192.168.1.104:19132
+2020-06-04 [02:19:33] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.5
+2020-06-04 [02:19:33] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading ItemCloud v1.3.1
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading FactionsPro v1.3.20
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading ChestShop v2.2.6
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [02:19:33] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [02:19:33] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [02:19:33] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [02:19:33] [Server thread/INFO]: Enabling ItemCloud v1.3.1
+2020-06-04 [02:19:33] [Server thread/INFO]: Enabling FactionsPro v1.3.20
+2020-06-04 [02:19:33] [Server thread/INFO]: [FactionsPro] Add AntiSpamPro to ban rude Faction names
+2020-06-04 [02:19:33] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [02:19:34] [Server thread/NOTICE]: [EconomyAPI] Something did not went wrong on update server.
+2020-06-04 [02:19:34] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [02:19:34] [Server thread/INFO]: Enabling ChestShop v2.2.6
+2020-06-04 [02:19:34] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [02:19:34] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [02:19:34] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [02:19:34] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [02:19:34] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [02:19:34] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [02:19:34] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [02:19:34] [Server thread/INFO]: Query running on 192.168.1.104:19132
+2020-06-04 [02:19:34] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [02:19:34] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [02:19:34] [Server thread/INFO]: Done (1.224s)! For help, type "help" or "?"
+2020-06-04 [02:20:14] [Server thread/INFO]: NetherWarlord1[/192.168.1.69:45626] logged out due to Server is white-listed
+2020-06-04 [02:20:31] [Server thread/INFO]: [CONSOLE: Added NetherWarlord1 to the whitelist]
+2020-06-04 [02:20:33] [Server thread/NOTICE]: Player data not found for "netherwarlord1", creating new profile
+2020-06-04 [02:20:39] [Server thread/INFO]: NetherWarlord1[/192.168.1.69:45626] logged in with entity id 1 at (world, 256, 70, 256)
+2020-06-04 [02:20:44] [Server thread/INFO]: NetherWarlord1 joined the game
+2020-06-04 [02:20:57] [Server thread/INFO]: [CONSOLE: Opped NetherWarlord1]
+2020-06-04 [02:21:11] [Server thread/INFO]: [NetherWarlord1: Set own game mode to Creative Mode]
+2020-06-04 [02:23:00] [Server thread/INFO]: NetherWarlord1 left the game
+2020-06-04 [02:23:01] [Server thread/INFO]: NetherWarlord1[/192.168.1.69:45626] logged out due to timeout
+2020-06-04 [02:30:18] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-06-04 [02:30:18] [Server thread/INFO]: Disabling EconomyPShop v2.0.3
+2020-06-04 [02:30:18] [Server thread/INFO]: Disabling ItemCloud v1.3.1
+2020-06-04 [02:30:18] [Server thread/INFO]: Disabling FactionsPro v1.3.20
+2020-06-04 [02:30:18] [Server thread/INFO]: Disabling EconomyAPI v5.7.2
+2020-06-04 [02:30:18] [Server thread/INFO]: Disabling ChestShop v2.2.6
+2020-06-04 [02:30:18] [Server thread/INFO]: Disabling EconomySell v2.0.10
+2020-06-04 [02:30:18] [Server thread/INFO]: Disabling EconomyShop v2.0.10
+2020-06-04 [02:30:18] [Server thread/INFO]: Disabling EconomyLand v2.1.2
+2020-06-04 [02:30:18] [Server thread/INFO]: Unloading world "world"
+2020-06-04 [02:30:18] [Server thread/INFO]: Stopping other threads
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading server properties...
+2020-06-04 [02:30:33] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [02:30:33] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [02:30:33] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [02:30:33] [Server thread/INFO]: RCON running on 192.168.1.104:19132
+2020-06-04 [02:30:33] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [02:30:33] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [02:30:33] [Server thread/INFO]: Opening server on 192.168.1.104:19132
+2020-06-04 [02:30:33] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.5
+2020-06-04 [02:30:33] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading FactionsPro v1.3.20
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading ItemCloud v1.3.1
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading ChestShop v2.2.6
+2020-06-04 [02:30:33] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [02:30:33] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [02:30:33] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [02:30:34] [Server thread/NOTICE]: [EconomyAPI] COVID19: Keep your personal hygiene by washing your hands and wearing a mask.
+2020-06-04 [02:30:34] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [02:30:34] [Server thread/INFO]: Enabling FactionsPro v1.3.20
+2020-06-04 [02:30:34] [Server thread/INFO]: [FactionsPro] Add AntiSpamPro to ban rude Faction names
+2020-06-04 [02:30:34] [Server thread/INFO]: Enabling ItemCloud v1.3.1
+2020-06-04 [02:30:34] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [02:30:34] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [02:30:34] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [02:30:34] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [02:30:34] [Server thread/INFO]: Enabling ChestShop v2.2.6
+2020-06-04 [02:30:34] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [02:30:34] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [02:30:34] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [02:30:34] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [02:30:34] [Server thread/INFO]: Query running on 192.168.1.104:19132
+2020-06-04 [02:30:34] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [02:30:34] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [02:30:34] [Server thread/INFO]: Done (1.215s)! For help, type "help" or "?"
+2020-06-04 [02:33:21] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-06-04 [02:33:21] [Server thread/INFO]: Disabling EconomyAPI v5.7.2
+2020-06-04 [02:33:21] [Server thread/INFO]: Disabling FactionsPro v1.3.20
+2020-06-04 [02:33:21] [Server thread/INFO]: Disabling ItemCloud v1.3.1
+2020-06-04 [02:33:21] [Server thread/INFO]: Disabling EconomyLand v2.1.2
+2020-06-04 [02:33:21] [Server thread/INFO]: Disabling EconomySell v2.0.10
+2020-06-04 [02:33:21] [Server thread/INFO]: Disabling EconomyPShop v2.0.3
+2020-06-04 [02:33:21] [Server thread/INFO]: Disabling ChestShop v2.2.6
+2020-06-04 [02:33:21] [Server thread/INFO]: Disabling EconomyShop v2.0.10
+2020-06-04 [02:33:21] [Server thread/INFO]: Unloading world "world"
+2020-06-04 [02:33:21] [Server thread/INFO]: Stopping other threads
+2020-06-04 [02:33:25] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [02:33:25] [Server thread/INFO]: Loading server properties...
+2020-06-04 [02:33:25] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [02:33:25] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [02:33:25] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [02:33:25] [Server thread/INFO]: RCON running on 192.168.1.104:19132
+2020-06-04 [02:33:25] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [02:33:25] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [02:33:25] [Server thread/INFO]: Opening server on 192.168.1.104:19132
+2020-06-04 [02:33:25] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.5
+2020-06-04 [02:33:25] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading FactionsPro v1.3.20
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading ItemCloud v1.3.1
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading ChestShop v2.2.6
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [02:33:26] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [02:33:26] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [02:33:26] [Server thread/INFO]: Enabling FactionsPro v1.3.20
+2020-06-04 [02:33:26] [Server thread/INFO]: [FactionsPro] Add AntiSpamPro to ban rude Faction names
+2020-06-04 [02:33:26] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [02:33:26] [Server thread/NOTICE]: [EconomyAPI] COVID19: Keep your personal hygiene by washing your hands and wearing a mask.
+2020-06-04 [02:33:26] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [02:33:26] [Server thread/INFO]: Enabling ItemCloud v1.3.1
+2020-06-04 [02:33:26] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [02:33:26] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [02:33:26] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [02:33:26] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [02:33:26] [Server thread/INFO]: Enabling ChestShop v2.2.6
+2020-06-04 [02:33:26] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [02:33:26] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [02:33:26] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [02:33:26] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [02:33:26] [Server thread/INFO]: Query running on 192.168.1.104:19132
+2020-06-04 [02:33:26] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [02:33:26] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [02:33:26] [Server thread/INFO]: Done (1.005s)! For help, type "help" or "?"
+2020-06-04 [02:34:57] [Server thread/INFO]: NetherWarlord1[/192.168.1.69:45626] logged in with entity id 1 at (world, 287.4295, 66, 291.3438)
+2020-06-04 [02:35:01] [Server thread/INFO]: NetherWarlord1 joined the game
+2020-06-04 [02:35:15] [Server thread/INFO]: NetherWarlord1 left the game
+2020-06-04 [02:35:15] [Server thread/INFO]: NetherWarlord1[/192.168.1.69:45626] logged out due to client disconnect
+2020-06-04 [02:58:05] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [02:58:05] [Server thread/INFO]: Loading server properties...
+2020-06-04 [02:58:05] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [02:58:05] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [02:58:05] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [02:58:05] [Server thread/INFO]: RCON running on 192.168.1.104:19132
+2020-06-04 [02:58:05] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [02:58:05] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [02:58:05] [Server thread/INFO]: Opening server on 192.168.1.104:19132
+2020-06-04 [02:58:06] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.5
+2020-06-04 [02:58:06] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading FactionsPro v1.3.20
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading ItemCloud v1.3.1
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading ChestShop v2.2.6
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [02:58:06] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [02:58:06] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [02:58:06] [Server thread/INFO]: Enabling FactionsPro v1.3.20
+2020-06-04 [02:58:06] [Server thread/INFO]: [FactionsPro] Add AntiSpamPro to ban rude Faction names
+2020-06-04 [02:58:06] [Server thread/INFO]: Enabling ItemCloud v1.3.1
+2020-06-04 [02:58:06] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [02:58:06] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [02:58:06] [Server thread/NOTICE]: [EconomyAPI] The update server is now online!
+2020-06-04 [02:58:07] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [02:58:07] [Server thread/INFO]: Enabling ChestShop v2.2.6
+2020-06-04 [02:58:07] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [02:58:07] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [02:58:07] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [02:58:07] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [02:58:07] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [02:58:07] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [02:58:07] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [02:58:07] [Server thread/INFO]: Query running on 192.168.1.104:19132
+2020-06-04 [02:58:07] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [02:58:07] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [02:58:07] [Server thread/INFO]: Done (1.194s)! For help, type "help" or "?"
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading server properties...
+2020-06-04 [10:12:01] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-04 [10:12:01] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-04 [10:12:01] [Server thread/INFO]: Starting remote control listener
+2020-06-04 [10:12:01] [Server thread/INFO]: RCON running on 192.168.1.104:19132
+2020-06-04 [10:12:01] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-04 [10:12:01] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-04 [10:12:01] [Server thread/INFO]: Opening server on 192.168.1.104:19132
+2020-06-04 [10:12:01] [Server thread/INFO]: This server is running PocketMine-MP version 3.12.5
+2020-06-04 [10:12:01] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading resource packs...
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading EconomySell v2.0.10
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading EconomyLand v2.1.2
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading EconomyPShop v2.0.3
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading ItemCloud v1.3.1
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading ChestShop v2.2.6
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading FactionsPro v1.3.20
+2020-06-04 [10:12:01] [Server thread/INFO]: Loading EconomyShop v2.0.10
+2020-06-04 [10:12:01] [Server thread/INFO]: Preparing world "world"
+2020-06-04 [10:12:01] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2020-06-04 [10:12:02] [Server thread/NOTICE]: [EconomyAPI] COVID19: Wash your hands with soap and running water for 30 seconds frequently.
+2020-06-04 [10:12:02] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2020-06-04 [10:12:02] [Server thread/INFO]: Enabling EconomySell v2.0.10
+2020-06-04 [10:12:02] [Server thread/NOTICE]: [EconomySell] Data provider was set to: Yaml
+2020-06-04 [10:12:02] [Server thread/INFO]: Enabling EconomyLand v2.1.2
+2020-06-04 [10:12:02] [Server thread/INFO]: Enabling EconomyPShop v2.0.3
+2020-06-04 [10:12:02] [Server thread/INFO]: Enabling ItemCloud v1.3.1
+2020-06-04 [10:12:02] [Server thread/INFO]: Enabling ChestShop v2.2.6
+2020-06-04 [10:12:02] [Server thread/INFO]: Enabling FactionsPro v1.3.20
+2020-06-04 [10:12:02] [Server thread/INFO]: [FactionsPro] Add AntiSpamPro to ban rude Faction names
+2020-06-04 [10:12:02] [Server thread/INFO]: Enabling EconomyShop v2.0.10
+2020-06-04 [10:12:02] [Server thread/NOTICE]: [EconomyShop] Data provider was set to: Yaml
+2020-06-04 [10:12:02] [Server thread/INFO]: Starting GS4 status listener
+2020-06-04 [10:12:02] [Server thread/INFO]: Setting query port to 19132
+2020-06-04 [10:12:02] [Server thread/INFO]: Query running on 192.168.1.104:19132
+2020-06-04 [10:12:02] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-04 [10:12:02] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-04 [10:12:02] [Server thread/INFO]: Done (1.44s)! For help, type "help" or "?"
+2020-06-04 [10:24:13] [Server thread/INFO]: NetherWarlord1[/192.168.1.69:39870] logged in with entity id 1 at (world, 291.8201, 67, 280.7791)
+2020-06-04 [10:24:16] [Server thread/INFO]: NetherWarlord1 joined the game
+2020-06-04 [10:24:26] [Server thread/INFO]: [NetherWarlord1: Set the time to 0]
+2020-06-04 [10:25:54] [Server thread/INFO]: [NetherWarlord1: Set the world spawn point to (292, 91, 293)]
+2020-06-04 [10:26:55] [Server thread/INFO]: NetherWarlord1 died
+2020-06-04 [10:26:55] [Server thread/INFO]: [NetherWarlord1: Killed NetherWarlord1]
+2020-06-04 [10:28:59] [Server thread/INFO]: NetherWarlord1 left the game
+2020-06-04 [10:28:59] [Server thread/INFO]: NetherWarlord1[/192.168.1.69:39870] logged out due to timeout
